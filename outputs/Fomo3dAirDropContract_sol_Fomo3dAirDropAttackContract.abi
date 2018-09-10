@@ -1,0 +1,1 @@
+[{"inputs":[{"name":"target","type":"address"},{"name":"seed","type":"uint256"},{"name":"multiple","type":"uint256"}],"payable":true,"stateMutability":"payable","type":"constructor"}]
